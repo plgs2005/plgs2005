@@ -19,11 +19,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; "/>
-</p>
----
-[![](https://visitcount.itsvg.in/api?id=plgs2005&icon=0&color=12)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=plgs2005&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=plgs2005&label=Profile%20Views&color=12&pretty=false" />
+</a>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas) 
