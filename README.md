@@ -19,8 +19,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<p align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; "/>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=plgs2005&icon=0&color=12)](https://visitcount.itsvg.in)
 
