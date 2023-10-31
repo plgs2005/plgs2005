@@ -131,8 +131,9 @@
   </td>
   <td valign="top" width="50%">
   
-  ### Participações  
-  <img src="(https://streak-stats.demolab.com/?user=plgs2005&mode=weekly" align="center" />
+  ### Participações
+  [![](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly)](https://git.io/streak-stats)  
+  
   </td>
 </tr>
 
