@@ -124,12 +124,12 @@
   </td>
 </tr>
 <tr>
-  <td valign="top"colspan="2" width="66%">
+  <td valign="top"colspan="2" width="50%">
   
   ### Prêmios  
   ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   </td>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
   
   ### Participações
   [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly&theme=radical&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)  
