@@ -114,7 +114,7 @@
 <br/>  
 
 ## Code Pen Implemention Link
-[Preview](https://codepen.io/pedro-lucas-santos/pen/xxMOgWZ)
+[Preview](https://codepen.io/chrisgannon/full/pbzEYr/)  |  [CodePen](https://codepen.io/chrisgannon/pen/pbzEYr)
 <br/>  
 
 
