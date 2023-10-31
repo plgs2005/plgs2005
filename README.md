@@ -92,7 +92,7 @@
 
 
 ## Github Stats  
-<table>
+<table style="border:none;">
 
 <tr>
 
