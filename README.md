@@ -1,6 +1,21 @@
-# 💫 About Me:
-Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologia com mais de 26 anos de experiência em desenvolvimento de software. Atualmente, sou Product Manager na Eztraordinario e também presto consultoria no Grupo Adiante. Sou apaixonado pela minha carreira e estou sempre em busca de novos desafios. Quero ir mais longe do que o telescópio James Webb e estou sempre disposto a encarar novos desafios. Além disso, sou um marido amoroso e pai dedicado.
 
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <h1><i class="fas fa-star"></i> About Me:</h1>
+      <p>
+        Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologia com mais de 26 anos de experiência em desenvolvimento de software.
+        Atualmente, sou Product Manager na Eztraordinario e também presto consultoria no Grupo Adiante. Sou apaixonado pela minha carreira e estou sempre em busca de novos desafios.
+        Quero ir mais longe do que o telescópio James Webb e estou sempre disposto a encarar novos desafios. Além disso, sou um marido amoroso e pai dedicado.
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h2><i class="fas fa-globe"></i> Socials:</h2>
+      <!-- Add your social badges here -->
+      <p>Seus badges sociais aqui.</p>
+    </div>
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrolucassantos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@plgsantos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedro8lucas) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos) 
@@ -20,6 +35,8 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- Include FontAwesome 6 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=plgs2005&icon=9&color=12)](https://visitcount.itsvg.in)
