@@ -24,6 +24,7 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![Contribuições](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true) | ![Sequência](https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)            |
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=plgs2005)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 | 🏆 Trophies | 
