@@ -10,7 +10,9 @@
 
 
 ## My Skill Set  
-<table border="0" style="border-collapse: collapse; border: none;"><tr><td valign="top" style="border: none;" width="33%">
+<table border="0">
+<tr>
+<td valign="top" style="border: none;" width="33%">
 
 
 
@@ -92,7 +94,7 @@
 
 
 ## Github Stats  
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0">
 
 <tr>
 
@@ -113,6 +115,7 @@
 
   ### Stacks  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100%; height:auto;"/>
+
   </td>
 </tr>
 <tr>
