@@ -1,111 +1,31 @@
 # 💫 About Me:
-        <div align="center" dir="auto">
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img
-                    align="center" alt="icon-Js" height="36" width="36"
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667"><img
-                    align="center" alt="icon-Ts" height="36" width="36"
-                    src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667"
-                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://camo.githubusercontent.com/569d9436b805ebea8af336170195070fd7ad6b866459fb1208f260a4876981f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2e737667"><img
-                    align="center" alt="icon-Ts" height="36" width="36"
-                    src="https://camo.githubusercontent.com/569d9436b805ebea8af336170195070fd7ad6b866459fb1208f260a4876981f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2e737667"
-                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img
-                    align="center" alt="icon-Ts" height="36" width="36"
-                    src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"
-                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"><img
-                    align="center" alt="icon-Ts" height="36" width="36"
-                    src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"
-                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667"><img
-                    align="center" alt="icon-Ts" height="36" width="36"
-                    src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667"
-                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img
-                    align="center" alt="icon-CSS" height="36" width="36"
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img
-                    align="center" alt="icon-HTML" height="36" width="36"
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-                    style="max-width: 100%;"></a>
-        </div>
-        <h1 dir="auto"></h1>
-        <div align="center" dir="auto">
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><img
-                    height="150em"
-                    src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
-                    data-canonical-src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
-                    style="max-width: 100%;">
-                </a>
-
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img
-                    height="150em"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&amp;layout=compact&amp;langs_count=8&amp;theme=dracula"
-                    style="max-width: 100%;">
-                </a>
-        </div>
-        <h1 id="user-content-olá-sou-pedro-lucas--" dir="auto">
-            <a class="heading-link" href="#olá-sou-pedro-lucas--">Olá, sou Pedro Lucas, </a>
-            Trabalhando duro com Laravel, Docker, Git e muito mais!<br>- 🌱 Sempre aprendendo e inovando em tecnologias web.<br>- 💬 Pergunte-me sobre Laravel, eu posso falar horas sobre isso!<br>- 📫 Como me encontrar: https://bit.ly/m/Pedro8lucas<br>- ⚡ Fato divertido: Sou um apaixonado por tecnologia e sempre busco novas maneiras de criar e inovar! <br>
-            
-            [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pedrolucassantos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plgsantos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
+Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologia com mais de 26 anos de experiência em desenvolvimento de software. Atualmente, sou Product Manager na Eztraordinario e também presto consultoria no Grupo Adiante. Sou apaixonado pela minha carreira e estou sempre em busca de novos desafios. Quero ir mais longe do que o telescópio James Webb e estou sempre disposto a encarar novos desafios. Além disso, sou um marido amoroso e pai dedicado.
 
 
-        </h1>
-        <p dir="auto">
-            Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologia com mais de 26 anos de experiência em desenvolvimento de software. Atualmente, sou Product Manager na Eztraordinario e também presto consultoria no Grupo Adiante. Sou apaixonado pela minha carreira e estou sempre em busca de novos desafios. Quero ir mais longe do que o telescópio James Webb e estou sempre disposto a encarar novos desafios. Além disso, sou um marido amoroso e pai dedicado.
-        </p>
-        <p dir="auto">
-            Já ganhei diversos prêmios na minha região por web design e atuei como professor de Hardware. Nos últimos
-            dois anos, venho atuando como consultor especializado e Product Manager em sistemas web SaaS.
-        </p>
-        <p dir="auto">
-            Minhas habilidades incluem: Laravel Framework, CSS, consumo de APIs, Restful WebServices em PHP, bancos de
-            dados como MySQL, MongoDB e SQL, além de outras tecnologias como Docker, Git, e Laravel Livewire.
-        </p>
-        <p dir="auto">
-            Meu objetivo atual é contribuir e criar novas ferramentas ou funcionalidades que utilizem inteligência
-            artificial para melhorar a vida das pessoas globalmente.
-        </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrolucassantos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@plgsantos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedro8lucas) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos) 
 
-            ### ✍️ Random Dev Quote
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; "/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-[![](https://visitcount.itsvg.in/api?id=plgs2005&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=plgs2005&label=Profile%20Views&color=12&pretty=false" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=plgs2005&icon=9&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 Can you help me with a new book?
+  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas) 
 
-## Code Pen Implemention Link
-Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
