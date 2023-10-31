@@ -99,7 +99,7 @@
   <td valign="top" style="border: none;" width="50%">
   
   ### Prêmios  
-  ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&row=2&column=4)
+  ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&row=3&column=4)
   </td>
   <td valign="top" style="border: none;" colspan="2" width="50%">
   
