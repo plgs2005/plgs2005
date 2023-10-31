@@ -26,9 +26,13 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 
 
 
-Trophies                                                                                                       | 🔝 Top Contributed Repo                                                                                                 |
+🏆 Trophies                                                                                                       | 🔝 Top Contributed Repo                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![Seu Troféu](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4) | ![Top Contributed](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+
+
+![](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 ### ✍️ Random Dev Quote
