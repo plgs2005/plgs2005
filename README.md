@@ -29,7 +29,7 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 
 
 
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/plgs2005/ez-ead/main)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/plgs2005/grupoadiante/ez-ead)
 
 
 
