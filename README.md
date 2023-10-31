@@ -118,14 +118,6 @@
 <tr>
 <td valign="top" style="border: none;" colspan="2" width="100%">
 
-## Connect with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrolucassantos)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@plgsantos)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedro8lucas)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
 
 </td>
 </tr>
@@ -153,3 +145,39 @@
 ## Code Pen Implemention Link
 Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
 <br/>  
+
+
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td valign="top" style="border: none;" colspan="2" width="100%">
+
+  ## Connect with me
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrolucassantos)
+  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@plgsantos)
+  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedro8lucas)
+  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: none;" width="50%">
+     
+  ## Reflexões!
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
+  </td>  
+  <td valign="top" style="border: none;" width="50%">
+  
+  ## 😂 Divirta-se nós só temos mais 2 minutos de vida!
+  <img src='https://randommeme-five.vercel.app/' style="height: auto; "/>
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: none;" colspan="2" width="100%">
+      <!-- Donate -->
+      <!-- ... -->
+    </td>
+  </tr>
+</table>
