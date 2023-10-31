@@ -117,8 +117,8 @@
 <tr>
 
   <td valign="top" style="border: none;" colspan="2" width="100%">
-## Connect with me  
-<div align="center">
+
+## Connect with me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas)
@@ -128,7 +128,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedro8lucas)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
 
-</div>  
+<tr>
 </td>
 
 <td valign="top" style="border: none;" colspan="2" width="100%">
