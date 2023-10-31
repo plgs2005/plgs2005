@@ -28,7 +28,8 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12228067)](https://github.com/grupoadiante/ez-ead)
 
 
-![Test](https://komarev.com/ghpvc/?username=plgs2005&style=for-the-badge)
+
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/plgs2005/ez-ead/main)
 
 
 
