@@ -120,7 +120,7 @@
   <td valign="top" width="33%">
 
   ### Stacks  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width: 100%; height:100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="min-width:350px; width: 100%; height:100%;"/>
   </td>
 </tr>
 <tr>
