@@ -30,8 +30,8 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 |---|---|
 | ![Seu Troféu](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4) | ![Top Contributed](https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=dark&hide_border=false) |
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=dark&border_radius=3&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
