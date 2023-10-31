@@ -106,6 +106,7 @@
 
   ### Estatísticas  
   <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:100%; height:auto;/>
+  
   </td>
 
   <td valign="top" width="33%">
