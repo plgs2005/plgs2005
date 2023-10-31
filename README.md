@@ -115,7 +115,7 @@
 
 ## Code Pen Implemention Link
 
-<img src="https://photos.app.goo.gl/ERE3xD7Ge3wYgFuu6" align="center" style="height:100%; " />
+<img src="https://paste.pics/13ee34121306b7e86353bf412ca7e06c" align="center" style="height:100%; " />
 
 ## CodePen (By Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
 
