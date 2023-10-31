@@ -115,10 +115,9 @@
 
 ## Code Pen Implemention Link
 
+<img src="https://photos.app.goo.gl/ERE3xD7Ge3wYgFuu6" align="center" style="height:100%; " />
 
-![](https://photos.app.goo.gl/ERE3xD7Ge3wYgFuu6)
-
-Paralax Card (A PEN BY Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
+## CodePen (By Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
 
 <br/>  
 
