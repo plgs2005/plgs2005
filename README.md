@@ -128,9 +128,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedro8lucas)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
 
-<tr>
-</td>
 
+</td>
+</tr>
+<tr>
 <td valign="top" style="border: none;" colspan="2" width="100%">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
 </td>  
