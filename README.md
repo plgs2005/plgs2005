@@ -81,7 +81,7 @@
   ### Contribuições  
   <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width:100% height:auto;"/>
  
- <br> 
+<br/>  
 
   ### Stacks  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100% height:auto;"/> 
