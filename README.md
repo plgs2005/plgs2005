@@ -105,7 +105,7 @@
   <td valign="top" style="border: none;" width="33%">
 
   ### Estatísticas  
-  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:100%; height:auto;/>
+  <img src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width:100%; height:auto;/>
   
   </td>
 
