@@ -80,6 +80,9 @@
 
   ### Contribuições  
   <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width:100% height:auto;"/>
+ <br> 
+  ### Stacks  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100% height:auto;"/> 
   </td>
 
   <td valign="top" style="border: none;" width="50%">
@@ -87,9 +90,7 @@
   ### Estatísticas  
   <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:auto%; height:auto;"/>
   
- <br> 
-  ### Stacks  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100% height:auto;"/>  
+  
   </td>
 
 </tr>
