@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<table border="0" style="border-collapse: collapse; border: none;"><tr><td valign="top" width="33%">
+<table border="0" style="border-collapse: collapse; border: none;"><tr><td valign="top" style="border: none;" width="33%">
 
 
 
@@ -31,7 +31,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" style="border: none;" width="33%">
 
 
 
@@ -52,7 +52,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" style="border: none;" width="33%">
 
 
 
@@ -96,32 +96,32 @@
 
 <tr>
 
-  <td valign="top" width="33%">
+  <td valign="top" style="border: none;" width="33%">
 
   ### Contribuições  
   <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width:100%; height:auto;"/>
   </td>
 
-  <td valign="top" width="33%">
+  <td valign="top" style="border: none;" width="33%">
 
   ### Estatísticas  
   <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:100%; height:auto;/>
   
   </td>
 
-  <td valign="top" width="33%">
+  <td valign="top" style="border: none;" width="33%">
 
   ### Stacks  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100%; height:auto;"/>
   </td>
 </tr>
 <tr>
-  <td valign="top"colspan="2" width="50%">
+  <td valign="top" style="border: none;"colspan="2" width="50%">
   
   ### Prêmios  
   ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" style="border: none;" width="50%">
   
   ### Participações
   [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly&theme=radical&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)  
