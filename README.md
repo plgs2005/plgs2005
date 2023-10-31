@@ -114,14 +114,9 @@
   <td valign="top" >
 
   ### Estatísticas  
-  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=radical&no-frame=false&no-bg=true" align="left" height="180em"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=radical&no-frame=false&no-bg=true" align="left" height="180em"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" height="180em"/>
   </td>
 
-  <td valign="top" >
-
-  ### Stacks  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" height="180em"/>
-  </td>
 </tr>
 <tr>
   <td valign="top" width="50%">
