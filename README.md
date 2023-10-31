@@ -132,7 +132,7 @@
   <td valign="top" width="50%">
   
   ### Participações
-  [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly)](https://git.io/streak-stats)  
+  [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly&theme=radical&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)  
   
   </td>
 </tr>
