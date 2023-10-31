@@ -116,7 +116,7 @@
 ## Code Pen Implemention Link
 
 
-<img src="https://raw.githubusercontent.com/plgs2005/plgs2005/main/paralax.png" align="center" style="height:100%; " />
+<img src="https://raw.githubusercontent.com/plgs2005/plgs2005/main/paralax.png" align="center" style="height:100%; border-radius:15px;" />
 
 Paralax Card (A PEN BY Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
 
