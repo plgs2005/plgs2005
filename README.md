@@ -100,6 +100,8 @@
   
   ### Prêmios  
   ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&row=3&column=5)
+  ### Stacks  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100%; height:100%;"/>
   </td>
   <td valign="top" style="border: none;" colspan="2" width="50%">
   
