@@ -108,19 +108,19 @@
   <td valign="top" width="33%">
 
   ### Contribuições  
-  <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width: 100%; height:100%;"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left"/>
   </td>
 
   <td valign="top" width="33%">
 
   ### Estatísticas  
-  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" align="left" style="width: 100%; height:100%;"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" align="left"/>
   </td>
 
   <td valign="top" width="33%">
 
   ### Stacks  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" width="300" style="min-width:350px; width: 100%; height:100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" width="400" height="300" />
   </td>
 </tr>
 <tr>
