@@ -116,7 +116,7 @@
 ## Code Pen Implemention Link
 
 
-![](https://drive.google.com/file/d/11RESRkpXCaWN7i8FI-iMHFc5R5xkIqUf/view?usp=drive_link)
+![](https://photos.app.goo.gl/ERE3xD7Ge3wYgFuu6)
 
 Paralax Card (A PEN BY Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
 
