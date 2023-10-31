@@ -30,9 +30,9 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 |---|
 | ![Seu Troféu](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4) | 
 
-🔝 Top Contributed Repo |
-|---|
-![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=dark&border_radius=3&locale=pt_BR&mode=weekly)
+<p> 🔝 Top Contributed Repo 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=plgs2005&theme=dark&border_radius=3&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+</p>
 
 
 
