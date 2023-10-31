@@ -113,7 +113,7 @@
 
 <br/>  
 
-## Code Pen Implemention Link
+## My Code Pen
 
 
 <img src="https://raw.githubusercontent.com/plgs2005/plgs2005/main/paralax.png" align="center" style="height:100%; border-radius:15px;" />
