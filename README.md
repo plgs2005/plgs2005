@@ -106,7 +106,6 @@
 <tr>
 
   <td valign="top" width="33%">
-  **<div align="center"></div>**
 
   ### Contribuições  
   <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" />
@@ -125,22 +124,18 @@
   </td>
 </tr>
 <tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
   
   ### Prêmios  
   [![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=radical&border_radius=3&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
   </td>
-  </td>
-</tr>
-
-<tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
   
   ### Participações  
   <img src="(https://streak-stats.demolab.com/?user=plgs2005&theme=radical&border_radius=3&locale=pt_BR&mode=weekly" align="center" />
   </td>
-  </td>
 </tr>
+
 </table>  
 
 <br/>  
