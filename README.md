@@ -1,4 +1,6 @@
 
+
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="icon-Js" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667"><img align="center" alt="icon-Ts" height="36" width="36" src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;"></a>
@@ -12,15 +14,13 @@
 <h1 dir="auto"></h1>
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><img height="150em" rel="noopener noreferrer nofollow" src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </a>
-
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&" style="max-width: 100%;">
 </a>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=radical&hide_border=false)
 
 </div>
 
