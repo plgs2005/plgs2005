@@ -85,10 +85,10 @@
   <td valign="top" style="border: none;" width="50%">
 
   ### Estatísticas  
-  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:100%; height:50%;"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="height:auto;"/>
   
   ### Stacks  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100%; height:100%;"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="height:auto;"/>  
   </td>
 
 </tr>
