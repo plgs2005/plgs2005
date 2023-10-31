@@ -1,4 +1,5 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+
+    <article class="markdown-body entry-content container-lg f5" itemprop="text">
         <div align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer nofollow"
                 href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img
@@ -47,33 +48,33 @@
                     style="max-width: 100%;"></a>
         </div>
         <h1 dir="auto"></h1>
-
         <div align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer nofollow"
                 href="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><img
-                    src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
-                    style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&"><img
                     height="150em"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&"
-                    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&"
+                    src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
+                    data-canonical-src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
                     style="max-width: 100%;">
-            </a>
+                </a>
 
-            ![](https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=radical&hide_border=false)
-
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img
+                    height="150em"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&amp;layout=compact&amp;langs_count=8&amp;theme=dracula"
+                    style="max-width: 100%;">
+                </a>
         </div>
-
-
         <h1 id="user-content-olá-sou-pedro-lucas--" dir="auto">
             <a class="heading-link" href="#olá-sou-pedro-lucas--">Olá, sou Pedro Lucas, </a>
-            <!-- Seus badges de GitHub e LinkedIn aqui -->
+            Trabalhando duro com Laravel, Docker, Git e muito mais!<br>- 🌱 Sempre aprendendo e inovando em tecnologias web.<br>- 💬 Pergunte-me sobre Laravel, eu posso falar horas sobre isso!<br>- 📫 Como me encontrar: https://bit.ly/m/Pedro8lucas<br>- ⚡ Fato divertido: Sou um apaixonado por tecnologia e sempre busco novas maneiras de criar e inovar! <br>
+            
+            [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pedrolucassantos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plgsantos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
+
+
         </h1>
         <p dir="auto">
-            Sou um desenvolvedor Fullstack com 15 anos de experiência em PHP e 7 anos especializados em Laravel.
-            Atualmente, sou líder de projeto em um sistema SaaS voltado para produtores digitais, com foco em
-            microserviços.
+            Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologia com mais de 26 anos de experiência em desenvolvimento de software. Atualmente, sou Product Manager na Eztraordinario e também presto consultoria no Grupo Adiante. Sou apaixonado pela minha carreira e estou sempre em busca de novos desafios. Quero ir mais longe do que o telescópio James Webb e estou sempre disposto a encarar novos desafios. Além disso, sou um marido amoroso e pai dedicado.
         </p>
         <p dir="auto">
             Já ganhei diversos prêmios na minha região por web design e atuei como professor de Hardware. Nos últimos
@@ -87,4 +88,25 @@
             Meu objetivo atual é contribuir e criar novas ferramentas ou funcionalidades que utilizem inteligência
             artificial para melhorar a vida das pessoas globalmente.
         </p>
+
+            ### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; "/>
+
+[![](https://visitcount.itsvg.in/api?id=plgs2005&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=plgs2005&label=Profile%20Views&color=12&pretty=false" />
+</a>
+
+  ## 💰 Can you help me with a new book?
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas) 
+
+## Code Pen Implemention Link
+Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
     </article>
