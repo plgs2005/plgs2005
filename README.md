@@ -11,7 +11,6 @@
     </div>
     <div class="col-md-4">
       <h2><i class="fas fa-globe"></i> Socials:</h2>
-      
     <a href="https://discord.gg/pedro8lucas" class="btn btn-primary">
         <i class="fab fa-discord"></i> Discord
     </a>
@@ -21,7 +20,7 @@
     <a href="https://linkedin.com/in/pedrolucassantos" class="btn btn-info">
         <i class="fab fa-linkedin"></i> LinkedIn
     </a>
-    <a href="https://tiktok.com/@@plgsantos" class="btn btn-black">
+    <a href="https://tiktok.com/@plgsantos" class="btn btn-black">
         <i class="fab fa-tiktok"></i> TikTok
     </a>
     <a href="https://twitch.tv/plgsantos" class="btn btn-purple">
