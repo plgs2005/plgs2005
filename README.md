@@ -128,7 +128,7 @@
   <td valign="top" width="33%">
   
   ### Prêmios  
-  <img src="(https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" align="center" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=radical&border_radius=3&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
   </td>
   </td>
 </tr>
