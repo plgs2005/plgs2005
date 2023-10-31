@@ -1,5 +1,4 @@
 # 💫 About Me:
- <article class="markdown-body entry-content container-lg f5" itemprop="text">
         <div align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer nofollow"
                 href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img
@@ -109,4 +108,4 @@
 
 ## Code Pen Implemention Link
 Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
-    </article>
+
