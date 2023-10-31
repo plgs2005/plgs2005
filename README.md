@@ -27,6 +27,11 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=100&html&value=100&php&value=100&blade&value=100&javaScript&value=50)](https://github.com/harish-sethuraman/readme-components)
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12228067)](https://github.com/grupoadiante/ez-ead)
 
+
+![Test](https://komarev.com/ghpvc/?username=plgs2005&style=for-the-badge)
+
+
+
 | 🏆 Trophies | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Seu Troféu](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4) | 
