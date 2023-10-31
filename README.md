@@ -25,7 +25,7 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 | ![Contribuições](https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![Estatísticas](https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4) | ![Sequência](https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)            |
 
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=100&html&value=100&php&value=100&blade&value=100&javaScript&value=50)](https://github.com/harish-sethuraman/readme-components)
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/grupoadiante/ez-ead)
 
 | 🏆 Trophies | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
