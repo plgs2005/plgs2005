@@ -127,12 +127,12 @@
   <td valign="top" width="50%">
   
   ### Prêmios  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=radical&border_radius=3&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+  ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   </td>
   <td valign="top" width="50%">
   
   ### Participações
-  [![](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly)](https://git.io/streak-stats)  
+  [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly)](https://git.io/streak-stats)  
   
   </td>
 </tr>
