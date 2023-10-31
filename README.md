@@ -16,7 +16,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 100%;"></a>
   </div>
   <div style="flex: 1;">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=radical&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=radical&hide_border=false" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;"></a>
   </div>
 </div>
 
