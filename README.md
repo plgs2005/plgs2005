@@ -32,7 +32,7 @@ Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologi
 
 <p> 🔝 Top Contributed Repo 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=plgs2005&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=radical&border_radius=4)](https://git.io/streak-stats)
 
 
 ### ✍️ Random Dev Quote
