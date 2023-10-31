@@ -127,7 +127,7 @@
 </div>  
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="width: 100%; height:100%; " />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
 </div>  
 
 ## 😂 Random Dev Meme:
