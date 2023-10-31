@@ -166,12 +166,12 @@ Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention
     <td valign="top" style="border: none;" width="50%">
      
   ## Reflexões!
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="style="width:180rem; height:100%; " />
   </td>  
   <td valign="top" style="border: none;" width="50%">
   
   ## 😂 Divirta-se nós só temos mais 2 minutos de vida!
-  <img src='https://randommeme-five.vercel.app/' style="width:auto; height: auto; "/>
+  <img src='https://randommeme-five.vercel.app/' style="width:180rem; height: auto; "/>
   </td>
   </tr>
   <tr>
