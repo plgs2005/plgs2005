@@ -132,7 +132,7 @@
   <td valign="top" width="50%">
   
   ### Participações  
-  <img src="(https://streak-stats.demolab.com/?user=plgs2005&theme=radical&border_radius=3&locale=pt_BR&mode=weekly" align="center" />
+  <img src="(https://streak-stats.demolab.com/?user=plgs2005&mode=weekly" align="center" />
   </td>
 </tr>
 
