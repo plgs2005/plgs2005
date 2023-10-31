@@ -79,7 +79,7 @@
   <td valign="top" style="border: none;" width="20%">
 
   ### Contribuições  
-  <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width:100%; height:auto;"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="height:auto;"/>
   </td>
 
   <td valign="top" style="border: none;" width="20%">
