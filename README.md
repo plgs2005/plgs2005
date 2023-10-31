@@ -1,23 +1,95 @@
 # 💫 About Me:
-🔭 Trabalhando duro com Laravel, Docker, Git e muito mais!<br>- 🌱 Sempre aprendendo e inovando em tecnologias web.<br>- 💬 Pergunte-me sobre Laravel, eu posso falar horas sobre isso!<br>- 📫 Como me encontrar: https://bit.ly/m/Pedro8lucas<br>- ⚡ Fato divertido: Sou um apaixonado por tecnologia e sempre busco novas maneiras de criar e inovar!
+ <article class="markdown-body entry-content container-lg f5" itemprop="text">
+        <div align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img
+                    align="center" alt="icon-Js" height="36" width="36"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667"><img
+                    align="center" alt="icon-Ts" height="36" width="36"
+                    src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667"
+                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://camo.githubusercontent.com/569d9436b805ebea8af336170195070fd7ad6b866459fb1208f260a4876981f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2e737667"><img
+                    align="center" alt="icon-Ts" height="36" width="36"
+                    src="https://camo.githubusercontent.com/569d9436b805ebea8af336170195070fd7ad6b866459fb1208f260a4876981f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2e737667"
+                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img
+                    align="center" alt="icon-Ts" height="36" width="36"
+                    src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"
+                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"><img
+                    align="center" alt="icon-Ts" height="36" width="36"
+                    src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"
+                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667"><img
+                    align="center" alt="icon-Ts" height="36" width="36"
+                    src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667"
+                    data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img
+                    align="center" alt="icon-CSS" height="36" width="36"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+                    style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img
+                    align="center" alt="icon-HTML" height="36" width="36"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+                    style="max-width: 100%;"></a>
+        </div>
+        <h1 dir="auto"></h1>
+        <div align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><img
+                    height="150em"
+                    src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
+                    data-canonical-src="https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radicalshow_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
+                    style="max-width: 100%;">
+                </a>
+
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img
+                    height="150em"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&amp;layout=compact&amp;langs_count=8&amp;theme=dracula"
+                    style="max-width: 100%;">
+                </a>
+        </div>
+        <h1 id="user-content-olá-sou-pedro-lucas--" dir="auto">
+            <a class="heading-link" href="#olá-sou-pedro-lucas--">Olá, sou Pedro Lucas, </a>
+            Trabalhando duro com Laravel, Docker, Git e muito mais!<br>- 🌱 Sempre aprendendo e inovando em tecnologias web.<br>- 💬 Pergunte-me sobre Laravel, eu posso falar horas sobre isso!<br>- 📫 Como me encontrar: https://bit.ly/m/Pedro8lucas<br>- ⚡ Fato divertido: Sou um apaixonado por tecnologia e sempre busco novas maneiras de criar e inovar! <br>
+            
+            [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pedrolucassantos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plgsantos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro8lucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pedrolucassantos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plgsantos) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plgsantos) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos) 
+        </h1>
+        <p dir="auto">
+            Oi, tudo bem? Pedro aqui. Sou um profissional apaixonado pela área de tecnologia com mais de 26 anos de experiência em desenvolvimento de software. Atualmente, sou Product Manager na Eztraordinario e também presto consultoria no Grupo Adiante. Sou apaixonado pela minha carreira e estou sempre em busca de novos desafios. Quero ir mais longe do que o telescópio James Webb e estou sempre disposto a encarar novos desafios. Além disso, sou um marido amoroso e pai dedicado.
+        </p>
+        <p dir="auto">
+            Já ganhei diversos prêmios na minha região por web design e atuei como professor de Hardware. Nos últimos
+            dois anos, venho atuando como consultor especializado e Product Manager em sistemas web SaaS.
+        </p>
+        <p dir="auto">
+            Minhas habilidades incluem: Laravel Framework, CSS, consumo de APIs, Restful WebServices em PHP, bancos de
+            dados como MySQL, MongoDB e SQL, além de outras tecnologias como Docker, Git, e Laravel Livewire.
+        </p>
+        <p dir="auto">
+            Meu objetivo atual é contribuir e criar novas ferramentas ou funcionalidades que utilizem inteligência
+            artificial para melhorar a vida das pessoas globalmente.
+        </p>
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
-<p align="center">
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<vh/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=plgs2005&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</p>
-
-### ✍️ Random Dev Quote
+            ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -37,5 +109,4 @@
 
 ## Code Pen Implemention Link
 Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    </article>
