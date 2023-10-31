@@ -114,7 +114,7 @@
 <br/>  
 
 ## Code Pen Implemention Link
-Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
+[Preview](https://codepen.io/pedro-lucas-santos/pen/xxMOgWZ)
 <br/>  
 
 
