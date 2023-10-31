@@ -171,7 +171,7 @@ Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention
   <td valign="top" style="border: none;" width="50%">
   
   ## 😂 Divirta-se nós só temos mais 2 minutos de vida!
-  <img src='https://randommeme-five.vercel.app/' style="width:100%; height: auto; "/>
+  <img src='https://randommeme-five.vercel.app/' style="width:auto; height: auto; "/>
   </td>
   </tr>
   <tr>
