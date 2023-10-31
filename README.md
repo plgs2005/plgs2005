@@ -88,7 +88,7 @@
   <td valign="top" style="border: none;" width="50%">
 
   ### Estatísticas  
-  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:auto%; height:auto;"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:auto; height:auto;"/>
   
   
   </td>
