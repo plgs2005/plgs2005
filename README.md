@@ -125,11 +125,10 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pedro-lucas-santos)
 
 </div>  
+
 <div align="center">
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="width: 100%" />
+</div>  
 
 ## 😂 Random Dev Meme:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; "/>
