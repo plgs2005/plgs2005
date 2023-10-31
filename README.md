@@ -115,9 +115,10 @@
 
 ## Code Pen Implemention Link
 
-![](https://assets.codepen.io/409445/internal/screenshots/pens/YJwoVy.custom.png)
 
-Bus Derby (A PEN BY Matthew Main) - [Preview](https://codepen.io/matthewmain/full/YJwoVy/)  |  [CodePen](https://codepen.io/matthewmain/pen/YJwoVy)
+![](https://drive.google.com/file/d/11RESRkpXCaWN7i8FI-iMHFc5R5xkIqUf/view?usp=drive_link)
+
+Paralax Card (A PEN BY Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
 
 <br/>  
 
