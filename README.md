@@ -76,32 +76,32 @@
 
 <tr>
 
-  <td valign="top" style="border: none;" width="33%">
+  <td valign="top" style="border: none;" width="20%">
 
   ### Contribuições  
   <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width:100%; height:auto;"/>
   </td>
 
-  <td valign="top" style="border: none;" width="33%">
+  <td valign="top" style="border: none;" width="20%">
 
   ### Estatísticas  
   <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:100%; height:auto;"/>
   
   </td>
 
-  <td valign="top" style="border: none;" width="33%">
+  <td valign="top" style="border: none;" width="60%">
 
   ### Stacks  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100%; height:auto;"/>
   </td>
 </tr>
 <tr>
-  <td valign="top" style="border: none;" width="100%">
+  <td valign="top" style="border: none;" width="50%">
   
   ### Prêmios  
   ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&row=3&column=5)
   </td>
-  <td valign="top" style="border: none;" colspan="2" width="100%">
+  <td valign="top" style="border: none;" colspan="2" width="50%">
   
   ### Participações
   [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly&theme=radical&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)  
