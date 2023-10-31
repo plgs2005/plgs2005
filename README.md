@@ -113,35 +113,6 @@
 
 <br/>  
 
-
-<table border="0" style="border-collapse: collapse; border: none;">
-<tr>
-<td valign="top" style="border: none;" colspan="2" width="100%">
-
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" style="border: none;" colspan="2" width="100%">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
-</td>  
-
-<td valign="top" style="border: none;" colspan="2" width="100%">
-## 😂 Divirta-se nós só temos mais 2 minutos de vida!
-<img src='https://randommeme-five.vercel.app/' style="height: auto; "/>
-</td>
-</tr>
-
-<tr>
-<td valign="top" style="border: none;" colspan="2" width="100%">
-## 💰 You can help me by Donating:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas)
-</td>
-</tr>
-
-</table>
-
 ## Code Pen Implemention Link
 Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention purpose.
 <br/>  
@@ -166,18 +137,19 @@ Check [this](https://codepen.io/pedro-lucas-santos/pen/PoBrggK) for implemention
     <td valign="top" style="border: none;" width="50%">
      
   ## Reflexões!
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="style="width:180rem; height:100%; " />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
   </td>  
   <td valign="top" style="border: none;" width="50%">
   
   ## 😂 Divirta-se nós só temos mais 2 minutos de vida!
-  <img src='https://randommeme-five.vercel.app/' style="width:180rem; height: auto; "/>
-  </td>
+<img src='https://randommeme-five.vercel.app/' style="height: auto; "/>
+    </td>
   </tr>
   <tr>
     <td valign="top" style="border: none;" colspan="2" width="100%">
-      <!-- Donate -->
-      <!-- ... -->
+    
+   ## 💰 You can help me by Donating ?:
+   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas)
     </td>
   </tr>
 </table>
