@@ -119,8 +119,8 @@
 
   <td valign="top" width="33%">
 
-  ### Sequência  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" />
+  ### Stacks  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" />
   </td>
 </tr>
 <tr>
