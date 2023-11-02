@@ -116,11 +116,11 @@
 <br/>  
 
 ## My Code Pen
-
-
-<img src="https://raw.githubusercontent.com/plgs2005/plgs2005/main/paralax.png" align="center" style="height:100%; border-radius:15px;" />
-
-Paralax Card (A PEN BY Pedro) - [Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
+Paralax Card (A PEN BY Pedro Lucas)
+<a href="https://codepen.io/pedro-lucas-santos/full/YzBWNYZ" target="_blank">
+  <img src="https://raw.githubusercontent.com/plgs2005/plgs2005/main/paralax.png" align="center" style="height:100%; border-radius:15px;" />
+</a>
+[Preview](https://codepen.io/pedro-lucas-santos/full/YzBWNYZ/)  |  [CodePen](https://codepen.io/pedro-lucas-santos/pen/YzBWNYZ)
 
 <br/>  
 
