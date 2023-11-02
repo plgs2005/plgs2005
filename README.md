@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=default&show_icons=true)](https://github.com/grupoadiante/ez-ead)
   
 <div align="center">
   
