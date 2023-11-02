@@ -88,7 +88,7 @@
     align-items: stretch;"/>
     
 
-  ### Stacks  
+  ### I work more with  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="height:100%; width: 100% !important;
     display: inline-flex;
     align-content: space-around;
@@ -98,7 +98,7 @@
 
   <td valign="top" style="border: 0px solid transparent;" width="50%">
     
-  ### Estatísticas  
+  ### My current level
   <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:auto; height:auto; width: 100% !important;
     display: inline-flex;
     align-content: space-around;
@@ -112,13 +112,13 @@
 <tr>
   <td valign="top" style="border: 0px solid transparent;" width="50%">
   
-  ### Prêmios  
+  ### My awards  
   ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&row=3&column=5)
   
   </td>
   <td valign="top" style="border: 0px solid transparent;" colspan="2" width="50%">
   
-  ### Participações
+  ### Statistics for nerds
   [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly&theme=radical&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)  
   
   </td>
@@ -156,23 +156,21 @@ Paralax Card (A PEN BY Pedro Lucas)
   <tr>
     <td valign="top" style="border: 0px solid transparent;" width="50%">
      
-  ## Reflexões!
+  ## Thoughts and reflections for life!!!
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
+  
   </td>  
   <td valign="top" style="border: 0px solid transparent;" width="50%">
   
-  ## 😂 Divirta-se nós só temos mais 2 minutos de vida!
+  ## 😂 Have fun, we only have 2 more minutes to live!
 <img src='https://randommeme-five.vercel.app/' style="height: auto; "/>
     </td>
   </tr>
   <tr>
     <td valign="top" style="border: 0px solid transparent;" colspan="2" width="100%">
     
-   ## 💰 You can help me by Donating ?:
-   
-   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas" align="center" style="text-align: center;
-    padding: 3rem;" />
-   
-    </td>
+   ## 💰 Donations and sponsorships? ?:
+   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas" align="center" style="text-align: center; padding: 3rem;" />
+   </td>
   </tr>
 </table>
