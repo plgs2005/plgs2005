@@ -169,7 +169,10 @@ Paralax Card (A PEN BY Pedro Lucas)
     <td valign="top" style="border: 0px solid transparent;" colspan="2" width="100%">
     
    ## 💰 You can help me by Donating ?:
-   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas)
+   
+   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas" align="center" style="text-align: center;
+    padding: 3rem;" />
+   
     </td>
   </tr>
 </table>
