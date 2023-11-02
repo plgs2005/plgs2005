@@ -79,12 +79,20 @@
   <td valign="top" style="border: none;" width="50%">
 
   ### Contribuições  
-  <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width:100% height:auto;"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="height:auto; width: 100% !important;
+    display: inline-flex;
+    align-content: space-around;
+    justify-content: center;
+    align-items: stretch;"/>
  
 <br/>  
 
   ### Stacks  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width:100% height:100%;"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="height:100%; width: 100% !important;
+    display: inline-flex;
+    align-content: space-around;
+    justify-content: center;
+    align-items: stretch;"/> 
   </td>
 
   <td valign="top" style="border: none;" width="50%">
