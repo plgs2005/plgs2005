@@ -10,7 +10,9 @@
 
 
 ## My Skill Set  
-<table border="0" style="border-collapse: collapse; border: none;"><tr><td valign="top" style="border: none;" width="33%">
+<table border="0" style="border: 0px solid transparent;">
+  <tr style="border: 0px solid transparent;">
+    <td valign="top" style="border: 0px solid transparent;" width="33%">
 
 
 
@@ -31,9 +33,9 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" style="border: none;" width="33%">
+</td>
 
-
+<td valign="top" width="33%" style="border: 0px solid transparent;" >
 
 ### Backend  
 <div align="center">  
@@ -52,11 +54,11 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" style="border: none;" width="33%">
+</td>
+<td valign="top" width="33%" style="border: 0px solid transparent;">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -72,11 +74,11 @@
 </td></tr></table>  
 
 ## Github Stats  
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0" style="border: 0px solid transparent;">
 
 <tr>
 
-  <td valign="top" style="border: none;" width="50%">
+  <td valign="top" style="border: 0px solid transparent;" width="50%">
 
   ### Contribuições  
   <img src="https://github-contributor-stats.vercel.app/api?username=plgs2005&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="height:auto; width: 100% !important;
@@ -84,10 +86,7 @@
     align-content: space-around;
     justify-content: center;
     align-items: stretch;"/>
- 
-<br/>
-<br/>
-<br/>
+    
 
   ### Stacks  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgs2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="height:100%; width: 100% !important;
@@ -97,8 +96,8 @@
     align-items: stretch;"/> 
   </td>
 
-  <td valign="top" style="border: none;" width="50%">
-
+  <td valign="top" style="border: 0px solid transparent;" width="50%">
+    
   ### Estatísticas  
   <img src="https://github-contribution-stats.vercel.app/api/?username=plgs2005&theme=dark&no-frame=false&no-bg=true" align="left" style="width:auto; height:auto; width: 100% !important;
     display: inline-flex;
@@ -111,13 +110,13 @@
 
 </tr>
 <tr>
-  <td valign="top" style="border: none;" width="50%">
+  <td valign="top" style="border: 0px solid transparent;" width="50%">
   
   ### Prêmios  
   ![Prêmios](https://github-profile-trophy.vercel.app/?username=plgs2005&theme=radical&no-frame=false&no-bg=true&row=3&column=5)
   
   </td>
-  <td valign="top" style="border: none;" colspan="2" width="50%">
+  <td valign="top" style="border: 0px solid transparent;" colspan="2" width="50%">
   
   ### Participações
   [![Participações](https://streak-stats.demolab.com/?user=plgs2005&mode=weekly&theme=radical&border_radius=3&locale=pt_BR)](https://git.io/streak-stats)  
@@ -141,7 +140,7 @@ Paralax Card (A PEN BY Pedro Lucas)
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" style="border: none;" colspan="2" width="100%">
+    <td valign="top" style="border: 0px solid transparent;" colspan="2" width="100%">
 
   ## Connect with me
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedro8lucas)
@@ -155,19 +154,19 @@ Paralax Card (A PEN BY Pedro Lucas)
 </td>
   </tr>
   <tr>
-    <td valign="top" style="border: none;" width="50%">
+    <td valign="top" style="border: 0px solid transparent;" width="50%">
      
   ## Reflexões!
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" style="height:100%; " />
   </td>  
-  <td valign="top" style="border: none;" width="50%">
+  <td valign="top" style="border: 0px solid transparent;" width="50%">
   
   ## 😂 Divirta-se nós só temos mais 2 minutos de vida!
 <img src='https://randommeme-five.vercel.app/' style="height: auto; "/>
     </td>
   </tr>
   <tr>
-    <td valign="top" style="border: none;" colspan="2" width="100%">
+    <td valign="top" style="border: 0px solid transparent;" colspan="2" width="100%">
     
    ## 💰 You can help me by Donating ?:
    [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedro8lucas)
