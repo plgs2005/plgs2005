@@ -1,4 +1,8 @@
+[![card](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  
 <div align="center">
+  
+  
 <img src="https://media.licdn.com/dms/image/D4D16AQGjhgCQ0eWApA/profile-displaybackgroundimage-shrink_350_1400/0/1693144572458?e=1704326400&v=beta&t=FK_PGsR_dsArgBaoepf-6pf_9Tj-Ive3OxmzXdWKOws" align="center" style="width: 100%" />
 </div>  
   
