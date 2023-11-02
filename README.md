@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=default&show_icons=true)](https://github.com/grupoadiante/ez-ead)
+[![card](https://github-readme-stats.vercel.app/api?username=plgs2005&theme=default&show_icons=true)](https://github.com/grupoadiante/ez-ead/commits?author=plgs2005)
   
 <div align="center">
   
