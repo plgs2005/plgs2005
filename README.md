@@ -1,7 +1,7 @@
 <div align="center">
   
   
-<img src="https://media.licdn.com/dms/image/D4D16AQGjhgCQ0eWApA/profile-displaybackgroundimage-shrink_350_1400/0/1693144572458?e=1704326400&v=beta&t=FK_PGsR_dsArgBaoepf-6pf_9Tj-Ive3OxmzXdWKOws" align="center" style="width: 100%" />
+<img src="https://www.dropbox.com/scl/fi/ybmf5hsqvc03aceava13f/LOGO_branco_completo.png?rlkey=psuwvjno2mrp3jrghj9oeczp2&dl=0" align="center" style="width: 100%" />
 </div>  
   
 
