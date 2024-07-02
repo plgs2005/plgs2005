@@ -121,7 +121,7 @@
   <td valign="top" style="border: 0px solid transparent;" colspan="2" width="50%">
   
   ### Statistics for nerds
- [![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0A3069%2C020914&fire=F8CB00)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=plgs2005&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=45%2C0A3069%2C020914&fire=F8CB00)](https://git.io/streak-stats)
   
   </td>
 </tr>
